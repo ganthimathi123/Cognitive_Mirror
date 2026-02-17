@@ -80,3 +80,31 @@ Cognitive Mirror shifts from reactive monitoring to preventive intelligence by i
 
 ## 📊 How It Works
 
+User Inputs
+↓
+Behavioral Trend Analysis
+↓
+Risk Scoring Engine
+↓
+GenAI Insight Generation
+↓
+Adaptive Preventive Guidance
+↓
+Continuous Feedback Loop
+
+
+---
+
+## 🎯 Future Scope
+
+- Wearable device integration  
+- Long-term predictive modeling  
+- Enterprise wellness dashboards  
+- Deployment as SaaS preventive intelligence platform  
+
+---
+
+## ⚠️ Disclaimer
+
+Cognitive Mirror is a preventive awareness tool and does not provide medical diagnosis or professional health advice.
+
